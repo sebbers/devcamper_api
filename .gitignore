@@ -1,0 +1,6 @@
+node_modules/
+config/config.env
+_data
+devcamper_theme
+devcamper_specs.md
+links.md
